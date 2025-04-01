@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int min(void) {
-printf ("hola mundo");
+printf ("estoy probando un archivo");
 return 2;
 + }
